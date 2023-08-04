@@ -1,0 +1,23 @@
+{
+  "name": "hqwuzhaoyi",
+  "version": "0.0.0",
+  "description": "Hi, I am Prajna",
+  "bugs": "https://github.com/hqwuzhaoyi/hqwuzhaoyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hqwuzhaoyi/hqwuzhaoyi"
+  },
+  "funding": "https://github.com/sponsors/hqwuzhaoyi",
+  "license": "MIT",
+  "author": "hqwuzhaoyi <hqwuzhaoyi@gmail.com>",
+  "main": "index.js",
+  "bin": {
+    "antfu": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
