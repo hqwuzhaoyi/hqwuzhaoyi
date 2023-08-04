@@ -1,5 +1,11 @@
 # hqwuzhaoyi  🧑🏻‍💻 
 
+<p align="center">
+    <a href="https://prajnax.com">blog</a> .
+    <a href="https://twitter.com/hqwuzhaoyi">twitter</a> .
+  </samp>
+</p>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hqwuzhaoyi&show_icons=true&theme=dark"
